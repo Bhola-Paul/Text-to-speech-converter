@@ -8,8 +8,7 @@ Functionalities
 Text Input: Users can input any text they want to be converted to speech.
 Voice Selection: The application provides a dropdown menu to select different available voices for speech synthesis.
 Speech Output: Clicking the "Speak" button initiates the text-to-speech conversion, and the input text is spoken aloud using the selected voice.
-Voice Selection
-The Web Speech API provides a list of available voices on the user's system. The JavaScript code accesses this list and populates the voice selection dropdown. Users can then choose the desired voice from the options.
+Voice Selection: It provides a list of available voices on the user's system. The JavaScript code accesses this list and populates the voice selection dropdown. Users can then choose the desired voice from the options.
 
 How it Works
 The user enters text into the input field.
